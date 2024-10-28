@@ -1,9 +1,6 @@
 # EyeTrackingwithVideo
 
----
-page_type: sample
-name: EyeTrackingwithVideo
-description: User will get eye position, gaze direction along with video of the environment in the runtime duration of the application using a HoloLens 2.
+Description: User will get eye position, gaze direction along with video of the environment in the runtime duration of the application using a HoloLens 2.
 languages:
 - csharp
 products:
